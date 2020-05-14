@@ -1,3 +1,3 @@
 # archsh
-- ao - Connect to Work VPN
-- monitor - connect to work monitor
+- pulse - Connect to Work VPN
+- mntsdrive - Connect to work mapped drive
